@@ -8,3 +8,11 @@ All about Git. Git concepts. Cit commands...
 * **Blob**
 * **Tree**
 * **Commit**
+* **Branch**
+* **Tag**
+* **Clone**
+* **Pull**
+* **Push**
+* **HEAD**
+* **Revision**
+* **URL**
