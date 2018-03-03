@@ -16,7 +16,8 @@ All about Git. Git concepts. Cit commands...
 
 * **Branch** is a line of development. By default, Git has the master branch. Usually, branch is used to develop a new feature. Once the feature is done, the branch is merged back to the master branch. Every branch is referenced by HEAD, which point to the latest commit in branch.
 
-* **Tag**
+* **Tag** assigns a meaningful name with a specific version in the repository. Usually, developers create tags for product releases.
+
 * **Clone**
 * **Pull**
 * **Push**
