@@ -18,7 +18,8 @@ All about Git. Git concepts. Cit commands...
 
 * **Tag** assigns a meaningful name with a specific version in the repository. Usually, developers create tags for product releases.
 
-* **Clone**
+* **Clone** get remote repository into the local one.
+
 * **Pull**
 * **Push**
 * **HEAD**
