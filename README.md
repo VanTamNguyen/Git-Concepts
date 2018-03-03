@@ -10,7 +10,8 @@ All about Git. Git concepts. Cit commands...
 
 * **Blob** stands for Binary Large Object. Each version of a file is reprensted by blob. Blob holds the file data but does not contain any metadata about the file. It is a binary file, and in Git databases, it is named as the SHA1 hash of that file. In Git, files are not addressed by names. Everything is content-addressed.
 
-* **Tree**
+* **Tree** is an object, which represents a directory. It holds blobs as well as sub-directories. A tree is a binary file which stores references to to blobs and sub-trees.
+
 * **Commit**
 * **Branch**
 * **Tag**
