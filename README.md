@@ -12,8 +12,10 @@ All about Git. Git concepts. Cit commands...
 
 * **Tree** is an object, which represents a directory. It holds blobs as well as sub-directories. A tree is a binary file which stores references to to blobs and sub-trees.
 
-* **Commit**
-* **Branch**
+* **Commit** holds the current state of the repository. Commit also is named by the SHA1 hash. A commit object is a node in linked list. Each commit has a pointer points to the parent commit so that we can view the history of the repository. If a commit has multiple parent commit, then that commit has been created by merging two branches.
+
+* **Branch** is a line of development. By default, Git has the master branch. Usually, branch is used to develop a new feature. Once the feature is done, the branch is merged back to the master branch. Every branch is referenced by HEAD, which point to the latest commit in branch.
+
 * **Tag**
 * **Clone**
 * **Pull**
