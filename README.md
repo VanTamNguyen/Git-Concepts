@@ -25,13 +25,22 @@ All about Git. Git concepts. Cit commands...
 * **Push** operation will copy changes from local repository instance to a remote one. The push operation will store changes permanently on remote repository.
 
 * **HEAD** is a pointer that point to the latest commit in a branch. Whenever we make a commit HEAD will be updated. The heads of the branches are stored in .git/refs/heads/ directory.
+    ```
+    [ubuntu]$ ls .git/refs/heads/
+    master
+    develop
+    feature
+    
+    [ubuntu]$ cat .git/refs/heads/master
+    570837e7d58fa4bccd86cb575d884502188b0c49
+    ```
 
 
 * **Revision**
 * **URL**
 
 
-#### 2. Workflow
+#### 2. Workflow 
 
 
 #### 3. Create Remote Repository
