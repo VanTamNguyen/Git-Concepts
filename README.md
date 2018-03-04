@@ -20,7 +20,8 @@ All about Git. Git concepts. Cit commands...
 
 * **Clone** get remote repository into the local one.
 
-* **Pull**
+* **Pull** operation will copy changes from remote repository instance to the local one. The pull operation is used to synchronize between two repository instances.
+
 * **Push**
 * **HEAD**
 * **Revision**
