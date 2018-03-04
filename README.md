@@ -36,8 +36,7 @@ All about Git. Git concepts. Cit commands...
     ```
 
 
-* **Revision**
-* **URL**
+* **Revision** represents the version of the source code. Revision is represented by commit. Commit is identified by SHA1 hash.
 
 
 #### 2. Workflow 
