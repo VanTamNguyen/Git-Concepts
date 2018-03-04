@@ -41,3 +41,4 @@ All about Git. Git concepts. Cit commands...
 
 #### 2. Merging vs. Rebasing
 * **Merging**<br/><br/>![merging](images/merge.png)
+* **Rebasing**<br/><br/>![rebasing](images/rebase.png)
