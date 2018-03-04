@@ -39,10 +39,6 @@ All about Git. Git concepts. Cit commands...
 * **Revision** represents the version of the source code. Revision is represented by commit. Commit is identified by SHA1 hash.
 
 
-#### 2. Workflow 
-
-
-#### 3. Create Remote Repository
-
-
-#### 4. Clone
+#### 2. Merging vs. Rebasing
+* **Merging**
+![merging](images/merge.png)
