@@ -22,8 +22,11 @@ All about Git. Git concepts. Cit commands...
 
 * **Pull** operation will copy changes from remote repository instance to the local one. The pull operation is used to synchronize between two repository instances.
 
-* **Push**
-* **HEAD**
+* **Push** operation will copy changes from local repository instance to a remote one. The push operation will store changes permanently on remote repository.
+
+* **HEAD** is a pointer that point to the latest commit in a branch. Whenever we make a commit HEAD will be updated. The heads of the branches are stored in .git/refs/heads/ directory.
+
+
 * **Revision**
 * **URL**
 
