@@ -42,3 +42,6 @@ All about Git. Git concepts. Cit commands...
 #### 2. Merging vs. Rebasing
 * **Merging**<br/><br/>![merging](images/merge.png)
 * **Rebasing**<br/><br/>![rebasing](images/rebase.png)
+* **When to merge and When to rebase**
+    * What is more valuable for you? The clean, linear history or the ability to trace your branches?
+    * Rebase for first case and merge for the second one.
