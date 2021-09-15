@@ -1,5 +1,5 @@
 # Git-Concepts
-All about Git. Git concepts. Cit commands...
+All about Git. Git concepts. Git commands...
 
 
 #### 1. Basic Concepts
